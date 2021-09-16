@@ -4,8 +4,8 @@
 
 # Authors
 
-Abdul Derh
-Rakshit Sharma
+Abdul Derh \
+Rakshit Sharma \
 Tongwha Kim
 
 # Demo
